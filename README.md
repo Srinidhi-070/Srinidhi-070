@@ -1,5 +1,16 @@
 # 💫 About Me:
-Hi! I’m Srinidhi, an undergraduate student currently pursuing a degree in Artificial Intelligence and Data Science at MS Ramaiah Institute of Technology.<br><br>I'm curious about how technology can make life smarter and simpler — especially through AI, automation, and creative problem-solving. I enjoy learning by building, exploring new tools, and constantly challenging myself with new ideas.<br><br>I believe in growing through collaboration, staying consistent, and never stopping the learning process. Whether it's writing code, picking up a new concept, or just figuring things out one step at a time — I’m always excited to learn more and do better.<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F763D7&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Srinidhi+%F0%9F%91%8B;AI+%2B+Data+Science+Undergrad+%F0%9F%A7%A0;Passionate+about+learning%2C+building%2C+growing+%E2%9A%97%EF%B8%8F" alt="Typing SVG" />
+<br>
+
+Hi! I’m **Srinidhi**, an undergraduate student currently pursuing a degree in **Artificial Intelligence and Data Science** at **MS Ramaiah Institute of Technology**.  
+<br>  
+I'm passionate about how technology can make life smarter and simpler — especially through **AI**, **automation**, and **creative problem-solving**.  
+I love learning by building, exploring new tools, and challenging myself with new ideas.  
+<br>  
+I believe in growing through **collaboration**, staying **consistent**, and never stopping the **learning process**. Whether it's writing code, picking up a new concept, or just figuring things out one step at a time — I’m always excited to learn more and do better.
+
+---
+
 
 
 ## 🌐 Socials:
