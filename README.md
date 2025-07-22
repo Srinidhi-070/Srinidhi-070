@@ -95,8 +95,4 @@ I believe in growing through **collaboration**, staying **consistent**, and neve
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Srinidhi-070&icon=0&color=0" />
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
