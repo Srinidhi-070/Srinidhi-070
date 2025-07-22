@@ -35,4 +35,11 @@ I believe in growing through **collaboration**, staying **consistent**, and neve
 ---
 [![](https://visitcount.itsvg.in/api?id=Srinidhi-070&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📈 My GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Srinidhi-070&theme=react-dark&bg_color=20232A&color=61dafb&line=00ffcc&point=ffffff&area=true&hide_border=true)](https://github.com/Srinidhi-070)
+
+![Contributions](https://img.shields.io/badge/GitHub%20Contributions-45-green?style=for-the-badge&logo=github&logoColor=white&labelColor=20232A)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
